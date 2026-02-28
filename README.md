@@ -105,7 +105,7 @@ Sou apaixonado por tecnologia, performance e arquitetura de software. Estou semp
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedrinXT666&theme=dark" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrinxt666&theme=dark"alt="Streak Stats"/>
 
 <br>
 <br>
