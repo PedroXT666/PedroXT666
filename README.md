@@ -102,20 +102,10 @@ Sou apaixonado por tecnologia, performance e arquitetura de software. Estou semp
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PedroXT666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
+<br>
 
-<img 
-      align="left" 
-      alt="Top Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXT666&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OsorioDevx&theme=dark" alt="Streak Stats"/>
 
-</p>
+<br>
+<br>
