@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Pedro Mesquita
+# 👨🏻‍💻 Pedro Guilherme
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Pedro Mesquita, sou desenvolvedor Back-End em nível Júnior e atualmente estou cursando **Sistemas de Informação**.  
+Me chamo Pedro Guilherme, sou desenvolvedor Back-End em nível Júnior e atualmente estou cursando **Sistemas de Informação**.  
 Tenho foco em evoluir constantemente e me especializar como desenvolvedor **Fullstack**, construindo aplicações escaláveis, APIs eficientes e soluções bem estruturadas.
 
 Sou apaixonado por tecnologia, performance e arquitetura de software. Estou sempre estudando e colocando em prática novos conhecimentos através de projetos.
