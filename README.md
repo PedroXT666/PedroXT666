@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Guilherme
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End é Engenheiro de IA`**
 
 Me chamo Pedro Guilherme, sou desenvolvedor Back-End em nível Júnior e atualmente estou cursando **Sistemas de Informação**.  
 Tenho foco em evoluir constantemente e me especializar como desenvolvedor **Fullstack**, construindo aplicações escaláveis, APIs eficientes e soluções bem estruturadas.
