@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-End é Engenheiro de IA`**
 
 Me chamo Pedro Guilherme, sou desenvolvedor Back-End em nível Júnior e atualmente estou cursando **Sistemas de Informação**.  
-Tenho foco em evoluir constantemente e me especializar como desenvolvedor **Fullstack**, construindo aplicações escaláveis, APIs eficientes e soluções bem estruturadas.
+Tenho foco em evoluir constantemente e me especializar em Engenheiro de IA, construindo aplicações escaláveis, APIs eficientes e soluções bem estruturadas.
 
 Sou apaixonado por tecnologia, performance e arquitetura de software. Estou sempre estudando e colocando em prática novos conhecimentos através de projetos.
 
@@ -37,14 +37,6 @@ Sou apaixonado por tecnologia, performance e arquitetura de software. Estou semp
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
